@@ -1,5 +1,6 @@
 {
-  "statusCode": 200,
+  "1": {
+    "statusCode": 200,
   "data": [{
     "postId": 1,
     "id": 1,
@@ -35,4 +36,43 @@
     "isBanned": true
   }],
   "msg": null
+  },
+  "2": {
+    "statusCode": 200,
+    "data": [{
+        "postId": 1,
+        "id": 1,
+        "name": "David Test",
+        "email": "davidtest@gardner.biz",
+        "isBanned": false
+    },
+    {
+        "postId": 1,
+        "id": 2,
+        "name": "Liza",
+        "email": "liza@sydney.com",
+        "isBanned": true
+    },
+    {
+        "postId": 1,
+        "id": 3,
+        "name": "Hoa Luong",
+        "email": "hoa@garfield.biz",
+        "isBanned": true
+    },
+    {
+        "postId": 1,
+        "id": 4,
+        "name": "Khang Nguyen",
+        "email": "Lew@alysha.tv",
+        "isBanned": true
+        },
+    {
+        "postId": 1,
+        "name": "Thanh Nguyen",
+        "email": "Hayden@althea.biz",
+        "isBanned": true
+    }],
+    "msg": null
+    }
 }
